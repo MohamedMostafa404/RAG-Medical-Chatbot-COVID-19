@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+python-dotenv
+streamlit
+streamlit_chat
+PyMuPDF
+langchain
+langchain-chroma
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-openai
+langchain-text-splitters
+chromadb
+google-ai-generativelanguage 

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+*.sqlite3
+*.h5
+*.keras
+*.db
+*.tmp
+*.pdf   # لو الملف كبير جدًا، ممكن تحطه في Git LFS أو تشاركه بطريقة ثانية
