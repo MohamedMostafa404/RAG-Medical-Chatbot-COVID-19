@@ -35,3 +35,67 @@ RAG-Chatbot/
 ├─ README.md # Project documentation
 
 ├─ requirements.txt # Python dependencies
+
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.11+
+- Install dependencies:
+
+```bash
+pip install -r requirements.txt
+
+```
+Running Locally
+
+```bash
+uvicorn app:app --reload
+
+```
+Open your browser at: http://127.0.0.1:8000
+
+---
+
+Usage
+
+Ask questions about COVID-19 in the chat interface.
+
+The AI will answer based on the PDF knowledge base.
+
+---
+
+Contributing
+
+Feel free to fork this repository, make changes, and submit pull requests.
+For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+License
+
+This project is open-source and available under the MIT License.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
